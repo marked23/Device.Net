@@ -14,8 +14,7 @@
     <PackageProjectUrl>https://github.com/MelbourneDeveloper/Device.Net</PackageProjectUrl>
     <RepositoryUrl>https://github.com/MelbourneDeveloper/Device.Net</RepositoryUrl>
     <PackageTags>Hid USB Android UWP Windows C#</PackageTags>
-    <SignAssembly>true</SignAssembly>
-    <DelaySign>false</DelaySign>
+    <SignAssembly>false</SignAssembly>
     <AssemblyOriginatorKeyFile>Device.Net.pfx</AssemblyOriginatorKeyFile>
   </PropertyGroup>
 
